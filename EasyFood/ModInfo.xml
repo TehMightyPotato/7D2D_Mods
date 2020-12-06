@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+    <ModInfo>
+        <Name value="EasyFood"/>
+        <Description value="Lowers food crafting recipes."/>
+        <Author value="TehMightyPotato"/>
+        <Version value="A19.2"/>
+        <Website value="https://mightypotato.de"/>
+    </ModInfo>
+</xml>
