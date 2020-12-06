@@ -1,22 +1,22 @@
 <EasyFood>
     <!--bacon&eggs-->
-    <set xpath="/recipes/recipe[@name?'foodBaconAndEggs']/ingredient[@name='foodRawMeat']/@count">3</set>
-    <set xpath="/recipes/recipe[@name?'foodBaconAndEggs']/ingredient[@name='foodEgg']/@count">1</set>
+    <set xpath="/recipes/recipe[@name='foodBaconAndEggs']/ingredient[@name='foodRawMeat']/@count">3</set>
+    <set xpath="/recipes/recipe[@name='foodBaconAndEggs']/ingredient[@name='foodEgg']/@count">1</set>
     <!--boiled meat-->
-    <set xpath="/recipes/recipe[@name?'foodBoiledMeat']/ingredient[@name='foodRawMeat']/@count">3</set>
+    <set xpath="/recipes/recipe[@name='foodBoiledMeat']/ingredient[@name='foodRawMeat']/@count">3</set>
     <!--charred meat-->
-    <set xpath="/recipes/recipe[@name?'foodCharredMeat']/ingredient[@name='foodRawMeat']/@count">3</set>
+    <set xpath="/recipes/recipe[@name='foodCharredMeat']/ingredient[@name='foodRawMeat']/@count">3</set>
     <!--chili dog-->
-    <set xpath="/recipes/recipe[@name?'foodChiliDog']/ingredient[@name='foodRawMeat']/@count">3</set>
+    <set xpath="/recipes/recipe[@name='foodChiliDog']/ingredient[@name='foodRawMeat']/@count">3</set>
     <!--grilled meat-->
-    <set xpath="/recipes/recipe[@name?'foodGrilledMeat']/ingredient[@name='foodRawMeat']/@count">3</set>
+    <set xpath="/recipes/recipe[@name='foodGrilledMeat']/ingredient[@name='foodRawMeat']/@count">3</set>
     <!--hobo stew-->
-    <set xpath="/recipes/recipe[@name?'foodHoboStew']/ingredient[@name='foodRottingFlesh']/@count">6</set>
+    <set xpath="/recipes/recipe[@name='foodHoboStew']/ingredient[@name='foodRottingFlesh']/@count">6</set>
     <!--meat stew-->
-    <set xpath="/recipes/recipe[@name?'foodMeatStew']/ingredient[@name='foodRawMeat']/@count">3</set>
+    <set xpath="/recipes/recipe[@name='foodMeatStew']/ingredient[@name='foodRawMeat']/@count">3</set>
     <!--moldy bread-->
-    <set xpath="/recipes/recipe[@name?'foodMoldyBread']/ingredient[@name='foodShamSandwich']/@count">3</set>
+    <set xpath="/recipes/recipe[@name='foodMoldyBread']/ingredient[@name='foodShamSandwich']/@count">3</set>
     <!--steak&potato-->
-    <set xpath="/recipes/recipe[@name?'foodSteakAndPotato']/ingredient[@name='foodRawMeat']/@count">3</set>
+    <set xpath="/recipes/recipe[@name='foodSteakAndPotato']/ingredient[@name='foodRawMeat']/@count">3</set>
 
 </EasyFood>
