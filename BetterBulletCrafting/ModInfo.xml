@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+    <ModInfo>
+        <Name value="BetterBulletCrafting"/>
+        <Description value="Adjusts crafting recipes for bullets to be more balanced."/>
+        <Author value="TehMightyPotato"/>
+        <Version value="A19.2"/>
+        <Website value="https://mightypotato.de"/>
+    </ModInfo>
+</xml>
